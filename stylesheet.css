@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(69, 69, 249);
+}
+.maincontainer{
+display:flex;
+
+}
+
+    
+.leftcontainer{
+    padding: 10px;
+    display:grid;
+   
+    
+}
+.rightcontainer{
+padding: 10px;
+
+}
